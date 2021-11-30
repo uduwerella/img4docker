@@ -1,0 +1,2 @@
+When you have to run 'docker' commands inside a docker image, you can always use 'img'
+This will create a docker image with img binary available.
